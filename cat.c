@@ -18,6 +18,5 @@ int main(int argc, char *argv[])
         c = getc(fp);
     }
     fclose(fp);
-    
     return 0;
 }
