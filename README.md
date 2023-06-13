@@ -1,14 +1,19 @@
 # SysP_Project
 
-Linux 명령어들을 C로 구현하는 프로젝트 입니다.
+Linux 명령어들을 C로 구현하는 프로젝트 입니다!
 
-![슬라이드2](https://github.com/Mr-Forger/SysP_Project/assets/46594567/15dca36e-8b7e-4417-bdfd-201c8ea78eb7)
-![슬라이드3](https://github.com/Mr-Forger/SysP_Project/assets/46594567/2e5401f3-cbed-4822-96a7-afa49286c036)
-![슬라이드4](https://github.com/Mr-Forger/SysP_Project/assets/46594567/f59dcde7-b6dc-4097-b1d6-3fad89c2078e)
-![슬라이드5](https://github.com/Mr-Forger/SysP_Project/assets/46594567/bd12b800-a946-4b28-aa5a-0a50c2847235)
-![슬라이드6](https://github.com/Mr-Forger/SysP_Project/assets/46594567/edbf6c6b-c8fb-4a82-a85a-17be6c80e7f6)
-![슬라이드7](https://github.com/Mr-Forger/SysP_Project/assets/46594567/8ada94ff-4815-4d9f-86d1-17bff9cad93d)
-![슬라이드8](https://github.com/Mr-Forger/SysP_Project/assets/46594567/0e4c78c9-3653-4dec-b20d-83846b78d07e)
-![슬라이드9](https://github.com/Mr-Forger/SysP_Project/assets/46594567/5e6b395a-bdd8-45dc-be1d-030346acb61b)
-![슬라이드10](https://github.com/Mr-Forger/SysP_Project/assets/46594567/6386c7eb-6b9f-42eb-bd8c-1c6292647f73)
-![슬라이드11](https://github.com/Mr-Forger/SysP_Project/assets/46594567/32a704ff-b3fe-4615-bc35-47e9e9c92c84)
+![슬라이드1](https://github.com/Mr-Forger/SysP_Project/assets/46594567/d64a21fc-48d2-4bf1-919c-10cd22b15023)
+![슬라이드2](https://github.com/Mr-Forger/SysP_Project/assets/46594567/06b947cd-d1a9-4690-965e-4412b7cd47a8)
+![슬라이드3](https://github.com/Mr-Forger/SysP_Project/assets/46594567/ca744cfe-fe05-4b63-8b6e-87ec9deafaef)
+![슬라이드4](https://github.com/Mr-Forger/SysP_Project/assets/46594567/b0bfda0d-fd4f-44c6-998f-a9e43dc9ae4c)
+![슬라이드5](https://github.com/Mr-Forger/SysP_Project/assets/46594567/6a9ce5a8-51b6-4899-a037-7dfdb55ee1d0)
+![슬라이드6](https://github.com/Mr-Forger/SysP_Project/assets/46594567/f3d2367a-5829-487c-ae5b-5af9804b7e42)
+![슬라이드7](https://github.com/Mr-Forger/SysP_Project/assets/46594567/48693ac7-df97-44f3-be31-f1cc0ae86cd1)
+![슬라이드8](https://github.com/Mr-Forger/SysP_Project/assets/46594567/2a024620-0361-4d86-9a9f-811c7285d915)
+![슬라이드9](https://github.com/Mr-Forger/SysP_Project/assets/46594567/dd9bc0a7-14bb-4746-bc72-230e2a82db31)
+![슬라이드10](https://github.com/Mr-Forger/SysP_Project/assets/46594567/3ba035cd-542c-44b6-8e38-d01e4e17fb72)
+![슬라이드11](https://github.com/Mr-Forger/SysP_Project/assets/46594567/1614a49b-49d4-49a8-aa7d-7df8a320e490)
+![슬라이드12](https://github.com/Mr-Forger/SysP_Project/assets/46594567/f8333363-4291-4c0f-8c7a-5168a08368ba)
+![슬라이드13](https://github.com/Mr-Forger/SysP_Project/assets/46594567/7c26b1a7-6655-4b84-8936-35392d548bc8)
+![슬라이드14](https://github.com/Mr-Forger/SysP_Project/assets/46594567/b9aa8040-2896-46f0-acc5-9522cf253011)
+
