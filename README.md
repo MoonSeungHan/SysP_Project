@@ -1,6 +1,6 @@
 # SysP_Project
 
-Linux 명령어들을 C로 구현하는 프로젝트 입니다.
+Linux 명령어들을 C로 구현하는 프로젝트 입니다!
 
 ![슬라이드2](https://github.com/Mr-Forger/SysP_Project/assets/46594567/15dca36e-8b7e-4417-bdfd-201c8ea78eb7)
 ![슬라이드3](https://github.com/Mr-Forger/SysP_Project/assets/46594567/2e5401f3-cbed-4822-96a7-afa49286c036)
